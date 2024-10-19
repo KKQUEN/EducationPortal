@@ -1,4 +1,4 @@
-Development started at 28.09.2024
+[//]: # (==Development started at 28.09.2024==)
 # The development plan
 * Business task analysis
   * Student-side
@@ -13,7 +13,8 @@ Development started at 28.09.2024
 * Deployment on the server
 
 ## Task analysis
-19.10.2024
+
+[//]: # (==19.10.2024==)
 Tasks listed from higher to lower priority
 ### Student Side 
 * The ability to view own schedule, grades, homework
@@ -30,4 +31,4 @@ Tasks listed from higher to lower priority
   * Education department
   * Groupmates
 
-  
+### Teacher side
