@@ -22,6 +22,7 @@ Tasks listed from higher to lower priority
   * Schedule changes
   * Academic debts
   * Monetary debt
+* Order certificates (for work, military, etc.)
 * learning statistics.
 * Interactive education elements
   * Tests
@@ -29,6 +30,16 @@ Tasks listed from higher to lower priority
   * Programming platform
 * Chat
   * Education department
+  * Teachers
   * Groupmates
 
+[//]: # (==19.10.2024==)
 ### Teacher side
+* Create lessons, set grades for students
+* Add homework, topics
+* View schedule
+* Discipline statistics (How many hours left, )
+* Plan exams
+* Load reports, acts (Generate)
+* Create web rooms
+
